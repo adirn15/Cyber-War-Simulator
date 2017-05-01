@@ -1,0 +1,44 @@
+<wire>
+	<pointA>Desktop PC</pointA>
+	<pointB>Critical Server</pointB>
+</wire>
+<wire>
+	<pointA>Desktop PC</pointA>
+	<pointB>TV Remote</pointB>
+</wire>
+<wire>
+	<pointA>Desktop PC</pointA>
+	<pointB>Smart Oven</pointB>
+</wire>
+<wire>
+	<pointA>Desktop PC</pointA>
+	<pointB>Laptop</pointB>
+</wire>
+<wire>
+	<pointA>Desktop PC</pointA>
+	<pointB>Apple PC</pointB>
+</wire>
+<wire>
+	<pointA>Smart Oven</pointA>
+	<pointB>Refrigerator</pointB>
+</wire>
+<wire>
+	<pointA>Laptop</pointA>
+	<pointB>Microwave</pointB>
+</wire>
+<wire>
+	<pointA>Microwave</pointA>
+	<pointB>Refrigerator</pointB>
+</wire>
+<wire>
+	<pointA>Cellphone</pointA>
+	<pointB>Cable TV Box</pointB>
+</wire>
+<wire>
+	<pointA>Cellphone</pointA>
+	<pointB>TV Remote</pointB>
+</wire>
+<wire>
+	<pointA>Apple PC</pointA>
+	<pointB>Smart Oven</pointB>
+</wire>

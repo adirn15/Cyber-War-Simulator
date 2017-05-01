@@ -1,0 +1,39 @@
+<hack>
+ <computer>Desktop PC</computer>
+ <wormName>Netbuster</wormName>
+ <wormDormancy>1</wormDormancy>
+ <wormOs>Linux</wormOs>
+</hack>
+<hack>
+ <computer>Refrigerator</computer>
+ <wormName>Netbuster</wormName>
+ <wormDormancy>1</wormDormancy>
+ <wormOs>Linux</wormOs>
+</hack>
+<hack>
+ <computer>Desktop PC</computer>
+ <wormName>Netbuster</wormName>
+ <wormDormancy>1</wormDormancy>
+ <wormOs>Linux</wormOs>
+</hack>
+<hack>
+ <computer>Microwave</computer>
+ <wormName>Netbuster</wormName>
+ <wormDormancy>1</wormDormancy>
+ <wormOs>Linux</wormOs>
+</hack>
+<hack>
+ <computer>Cellphone</computer>
+ <wormName>Netbuster</wormName>
+ <wormDormancy>1</wormDormancy>
+ <wormOs>Linux</wormOs>
+</hack>
+<clock-in>
+ <name>Einav Genad Galili</name>
+ <workTime>3</workTime>
+ <restTime>1</restTime>
+ <efficiency>3</efficiency>
+</clock-in>
+<termination>
+	<time>10</time>
+</termination>

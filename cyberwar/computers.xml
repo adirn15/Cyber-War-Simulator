@@ -1,0 +1,40 @@
+<computer> 
+	<name>Desktop PC</name> 
+	<os>Linux</os>
+</computer>
+<computer> 
+	<name>Critical Server</name> 
+	<os>Windows</os>
+</computer>
+<computer> 
+	<name>Laptop</name> 
+	<os>Linux</os>
+</computer>	
+<computer> 
+	<name>Refrigerator</name> 
+	<os>Linux</os>
+</computer>
+<computer> 
+	<name>Cable TV Box</name> 
+	<os>Linux</os>
+</computer>	
+<computer> 
+	<name>TV Remote</name> 
+	<os>Linux</os>
+</computer>
+<computer> 
+	<name>Cellphone</name> 
+	<os>Linux</os>
+</computer>
+<computer> 
+	<name>Microwave</name> 
+	<os>Linux</os>
+</computer>
+<computer> 
+	<name>Smart Oven</name> 
+	<os>Linux</os>
+</computer>
+<computer> 
+	<name>Apple PC</name> 
+	<os>Linux</os>
+</computer>
